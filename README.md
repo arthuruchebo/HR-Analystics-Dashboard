@@ -5,10 +5,10 @@ An interactive HR Analytics Dashboard built using Python, Faker, Tableau, and Fi
 This project simulates HR data using Python's Faker library and visualises key workforce metrics through an interactive Tableau dashboard. The dashboard's design was planned using Figma for a clean and intuitive layout.
 
 ## Key Features
-Synthetic HR Data: Generated a realistic yet fake dataset using Python and Faker.
-Dashboard Design: Created a visually appealing background in Figma for a polished look.
-Interactive Visualisation: Built in Tableau to explore hiring, retention, and salary distribution trends.
-AI-Assisted Code Writing: Some Python scripts were generated with the help of Generative AI prompts.
+- Synthetic HR Data: Generated a realistic yet fake dataset using Python and Faker.
+- Dashboard Design: Created a visually appealing background in Figma for a polished look.
+- Interactive Visualisation: Built in Tableau to explore hiring, retention, and salary distribution trends.
+- AI-Assisted Code Writing: Some Python scripts were generated with the help of Generative AI prompts.
 
 ## Technologies Used
 Python (Faker, Pandas)
