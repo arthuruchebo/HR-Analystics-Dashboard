@@ -23,8 +23,11 @@ Python (Faker, Pandas)
 ## Screenshots
 - <a href= "https://public.tableau.com/views/HumanResourcesDashboardUnitedKingdom/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Interact with Dashboard</a>
 - <a href= "https://medium.com/@arthuruchebo2/hr-analytics-dashboard-leveraging-python-tableau-for-data-driven-insights-af3ad32dde8d">Read more on Medium</a>
+
 <img width="1389" alt="Dashboard Details" src="https://github.com/user-attachments/assets/81febe5d-8924-48c7-92c3-4e453082475a" />
+
 <img width="1389" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/8ba6e4cf-0053-4a8d-8658-672cdabcabf4" />
+
 <img width="1389" alt="Dashboard Info" src="https://github.com/user-attachments/assets/dbf076ad-c73d-4fac-a02a-a075216072b4" />
 
 ## Acknowledgements
